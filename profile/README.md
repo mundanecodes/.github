@@ -3,7 +3,6 @@
 > Simple, everyday code for complex, everyday problems.
 
 We’re a Rails consultancy focused on building calm, maintainable systems for teams who value clarity, reliability, and speed over hype.  
-No buzzwords. No chaos. Just practical solutions for real-world problems — the kind you deal with every day.
 
 ---
 
