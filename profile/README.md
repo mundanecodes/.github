@@ -1,4 +1,4 @@
-# <mundane.codes/>
+# <`mundane.codes`/>
 
 > Simple, everyday code for complex, everyday problems.
 
