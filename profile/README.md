@@ -2,7 +2,7 @@
 
 > Simple, everyday code for complex, everyday problems.
 
-We’re a Rails consultancy focused on building calm, maintainable systems for teams who value clarity, reliability, and speed over hype.  
+We’re a Rails consultancy focused on building maintainable systems for teams who value clarity, reliability, and speed over hype.  
 
 ---
 
