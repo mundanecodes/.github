@@ -1,33 +1,41 @@
-# <`mundane.codes`/>
+# mundane.codes
 
-> Simple, everyday code for complex, everyday problems.
+  > Senior Rails engineers who build systems that actually last.
 
-We’re a Rails consultancy focused on building maintainable systems for teams who value clarity, reliability, and speed over hype.  
+  We write boring, reliable Rails code that scales. Less technical debt, fewer outages, more growth.
 
----
 
-### 🛠️ What We Do
+  ## What We Do
 
-- 💡 **Rails architecture & refactoring**
-- ⚙️ **Turbo/Hotwire upgrades**
-- 🔄 **Legacy rescue missions**
-- 📈 **Performance tuning & background jobs**
-- 🧱 **Maintainable patterns and design systems**
+  **Rails that doesn't break**
+  - Zero-downtime upgrades (Rails 5.x → 8.0)
+  - Performance optimization (70%+ speed improvements)
+  - Legacy modernization without rewrites
+  - API consolidation and architecture simplification
 
----
+  **Code that lasts**
+  - Comprehensive testing and code reviews
+  - Technical debt reduction (up to 40% improvement)
+  - Database architecture for 10x growth
+  - Security audits and OWASP compliance
 
-### 🤝 How We Work
+  ## How We Work
 
-- 🧘 **Boring by design** — clear, tested, resilient code
-- ⚡ **Fast feedback** — tight loops, short PRs, early delivery
-- 🧩 **Team-friendly** — we integrate smoothly into your stack and rhythm
-- 💬 **Thoughtful communication** — because good software is built on good conversations
+  **Process-driven**
+  - Discovery & planning with detailed technical assessment
+  - Daily commits with weekly progress demos
+  - Complete code review, testing, and deployment guidance
 
----
+  **Business-first**
+  - Async-friendly across timezones
+  - Clear deliverables and timelines
+  - Documentation and knowledge transfer included
 
-### 🔍 Looking for help?
+  ## Get in Touch
 
-We’re available for audits, collaborations, and long-term engagements.  
-You bring the problem — we’ll bring the calm.
+  **Ready to build something that actually lasts?**
 
-→ [Say hello](mailto:helloworld@mundane.codes)
+  📅 [Schedule a free 
+  consultation](https://calendly.com/ongaocharles/build-rails-systems-that-last-free-consultation)
+  📧 [hello@mundane.codes](mailto:hello@mundane.codes)
+  🌐 [mundane.codes](https://mundane.codes)
